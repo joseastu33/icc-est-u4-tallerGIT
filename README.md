@@ -6,4 +6,5 @@ markdowm = .md
 Primer GIT
 
 # Practica del 8/Abril/2026
+
 Aprendiendo a usar GIT
